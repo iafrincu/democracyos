@@ -133,24 +133,7 @@
   "forceSafeImageURLs": true,
   "segmentKey": "",
   "availableLocales": [
-    "ca",
-    "de",
-    "en",
-    "es",
-    "fi",
-    "fr",
-    "gl",
-    "hu",
-    "it",
-    "nl",
-    "pl",
-    "pt",
-    "ro",
-    "ru",
-    "sq",
-    "sv",
-    "uk",
-    "zh_TW"
+    "ro"
   ],
   "enforceLocale": false
 }
