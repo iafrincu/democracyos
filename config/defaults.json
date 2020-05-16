@@ -133,7 +133,8 @@
   "forceSafeImageURLs": true,
   "segmentKey": "",
   "availableLocales": [
-    "ro"
+    "ro",
+    "en"
   ],
   "enforceLocale": false
 }
