@@ -20,8 +20,8 @@
   "checkNodeVersion": true,
   "auth": {
     "basic": {
-      "username": "ifrincu+1@gmail.com",
-      "password": "computer"
+      "username": "",
+      "password": ""
     },
     "facebook": {
       "clientID": "",
