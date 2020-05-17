@@ -75,7 +75,7 @@
   "admin-topics-form.alert.no-tags.no-staff": "Niciun cuvânt cheie nu a fost găsit, niciun subiect de discuții nu poate fi creat încă",
   "admin-topics-form.button.add-clause": "Adaugă clauză",
   "admin-topics-form.button.add-link": "Adaugă link",
-  "admin-topics-form.button.make-private": "Non public",
+  "admin-topics-form.button.make-private": "Retrage",
   "admin-topics-form.button.make-public": "Publică",
   "admin-topics-form.button.submit": "Salveaza",
   "admin-topics-form.clause.button.delete": "Șterge",
