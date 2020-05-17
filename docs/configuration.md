@@ -333,7 +333,7 @@ URL of the [favicon](https://es.wikipedia.org/wiki/Favicon).
 
 #### **organizationName**
 * env: `ORGANIZATION_NAME`
-* default: `DemocracyOS on GitHub`
+* default: `Primaria Municipiului Bucuresti`
 
 Title of the app to be shown on the right side of the header.
 
