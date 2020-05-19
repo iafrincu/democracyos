@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    env_file: docker/.env.production
+    ports:
+      - "80:3000"
+    depends_on:
+      - database
+    tty: true
+
+  database:
+    image: mongo:3.2
+    volumes:
+      - ./db:/data/db
